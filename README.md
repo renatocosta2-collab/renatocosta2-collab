@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Renato Costa de Oliveira
 
-<!--
-**renatocosta2-collab/renatocosta2-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Front-End | Fundador da RO Digital Labs Ltda.
 
-Here are some ideas to get you started:
+Sou desenvolvedor em transição de carreira para a área de Desenvolvimento de Software, construindo projetos práticos e evoluindo continuamente minhas habilidades em programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, desenvolvo soluções digitais através da **RO Digital Labs Ltda.**, com foco em presença digital, desenvolvimento web, automações e Inteligência Artificial.
+
+## 🚀 Tecnologias e ferramentas
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- VS Code
+- Figma
+
+## 💻 Projetos
+
+### 🚀 DevClub Landing Page
+
+Landing page desenvolvida como projeto de estudo e portfólio, utilizando HTML5, CSS3 e JavaScript.
+
+➡️ Confira o projeto nos meus repositórios.
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Front-End
+- JavaScript
+- Git e GitHub
+- Desenvolvimento Full Stack
+- Inteligência Artificial e Automações
+
+## 🎯 Próximos objetivos
+
+Evoluir como Desenvolvedor Front-End, avançar para Full Stack e desenvolver soluções digitais que integrem desenvolvimento de software, automação e Inteligência Artificial.
+
+## 🏢 RO Digital Labs Ltda.
+
+**Soluções Digitais Inteligentes**
+
+Desenvolvimento de soluções digitais para empresas e profissionais.
+
+🌐 rodigitallabs.com.br
+
+## 📫 Contato
+
+- LinkedIn: linkedin.com/in/renato-costa-de-oliveira
+- Site: rodigitallabs.com.br
