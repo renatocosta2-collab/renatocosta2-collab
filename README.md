@@ -22,7 +22,7 @@ Atualmente, desenvolvo soluções digitais através da **RO Digital Labs Ltda.**
 
 Landing page desenvolvida como projeto de estudo e portfólio, utilizando HTML5, CSS3 e JavaScript.
 
-➡️ Confira o projeto nos meus repositórios.
+➡️ [Ver projeto DevClub Landing Page](https://github.com/renatocosta2-collab/devclub-landing-page)
 
 ## 📚 Atualmente estudando
 
